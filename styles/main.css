@@ -22,6 +22,8 @@ h2{
 footer p{
   text-align:center;
   font-size:80%;
+  font-color:white;
+  background:steelblue;
 }
 a{
   color:maroon;
