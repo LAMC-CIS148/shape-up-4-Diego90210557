@@ -2,7 +2,7 @@ body{
   font-family: Arial, sans-serif;
 }
 h1{
-  text-color:steelblue;
+  color:steelblue;
   font-style:italic;
   text-indent:30px;
 }
@@ -17,5 +17,5 @@ footer p{
   font-size:80%;
 }
 a{
-  text-color:maroon;
+  color:maroon;
 }
