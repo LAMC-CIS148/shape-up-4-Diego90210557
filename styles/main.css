@@ -1,4 +1,8 @@
 body{
+  width:900px;
+    border:2px steelblue;
+  shadow:black;
+  text-allign:center;
   font-family: Arial, sans-serif;
 }
 h1{
