@@ -2,6 +2,7 @@ body{
   width:900px;
     border:2px steelblue;
   margin:auto;
+  border-margin:5px;
   shadow:black;
   text-allign:center;
   font-family: Arial, sans-serif;
