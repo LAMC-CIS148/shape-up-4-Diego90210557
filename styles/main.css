@@ -2,6 +2,8 @@ body{
   width:900px;
     border:2px steelblue;
   margin:auto;
+  border-top:2px;
+  border-bottom:2px;
   border-margin:5px;
   shadow:black;
   text-allign:center;
