@@ -19,6 +19,8 @@ header img{
 }
 header{
   border:2px steelblue;
+  padding-top:1.5ems;
+	padding-bottom:2ems;
   background:linear-gradient(white 20%,light steelblue 80%)
 }
 h2{
