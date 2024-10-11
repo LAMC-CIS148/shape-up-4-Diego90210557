@@ -1,9 +1,9 @@
 body{
   width:900px;
-    border:2px steelblue;
+    border:3px steelblue;
   margin:auto;
-  border-top:2px;
-  border-bottom:2px;
+  border-top:3px;
+  border-bottom:3px;
   border-margin:5px;
   shadow:black;
   text-allign:center;
