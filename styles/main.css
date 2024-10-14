@@ -21,7 +21,7 @@ header{
   border:3px solid steelblue;
   padding-top:1.5ems;
 	padding-bottom:2ems;
-  background:linear-gradient(top to bottom, white 20%,light steelblue 80%);
+  background-image:linear-gradient(to bottom, white 0%,light steelblue 100%);
 }
 h2{
   text-indent:110px;
