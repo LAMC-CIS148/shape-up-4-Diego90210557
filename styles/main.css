@@ -23,14 +23,22 @@ header{
 	padding-bottom:2ems;
   background-image:linear-gradient(to bottom, white 0%,light steelblue 100%);
 }
+aside{
+	float:left;
+	width:245px;
+}
 h2{
   text-indent:110px;
+}
+h3{
+ color:maroon;
 }
 footer p{
   text-align:center;
   font-size:80%;
   color:white;
   background:steelblue;
+ clear:left;
 }
 a{
   color:maroon;
