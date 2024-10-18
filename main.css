@@ -24,9 +24,11 @@ header{
 }
 main{
 	text-align:right;
+}
 aside{
 	float:left;
 	width:245px;
+	text-align:left;
 }
 h2{
   text-indent:110px;
