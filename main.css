@@ -6,7 +6,7 @@ body{
   border-bottom:3px;
   border-margin:5px;
   shadow:black;
-  text-allign:center;
+  text-align:center;
   font-family: Arial, sans-serif;
 }
 h1{
@@ -25,7 +25,7 @@ header{
 }
 aside{
 	float:left;
-	text-allign:left;
+	text-align:left;
 	width:245px;
 }
 h2{
