@@ -6,7 +6,6 @@ body{
   border-bottom:3px;
   border-margin:5px;
   shadow:black;
-  text-align:center;
   font-family: Arial, sans-serif;
 }
 h1{
@@ -23,6 +22,8 @@ header{
 	padding-bottom:2ems;
   background-image:linear-gradient(to bottom, white 0%,light steelblue 100%);
 }
+main{
+	text-align:center;
 aside{
 	float:left;
 	text-align:left;
