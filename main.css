@@ -23,12 +23,11 @@ header{
   background-image:linear-gradient(to bottom, white 0%,light steelblue 100%);
 }
 main{
-	text-align:right;
+	text-align:center;
 }
 aside{
 	float:left;
 	width:245px;
-	text-align:center;
 }
 h2{
   text-indent:110px;
