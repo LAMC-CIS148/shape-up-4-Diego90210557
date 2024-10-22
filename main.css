@@ -22,6 +22,9 @@ background-color:steelblue;
 font-color:black;
 float:none
 }
+ul{
+list-style-type:none;
+}
 h1{
   color:steelblue;
   font-style:italic;
@@ -58,4 +61,5 @@ underline:none;
 }
 li{
   color:steelblue;
+display:inline;
 }
