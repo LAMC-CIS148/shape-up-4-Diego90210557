@@ -17,6 +17,10 @@ body{
   display: table;
   clear: both;
 }
+#nav_menu{
+background-color:steelblue;
+font-color:black;
+}
 h1{
   color:steelblue;
   font-style:italic;
