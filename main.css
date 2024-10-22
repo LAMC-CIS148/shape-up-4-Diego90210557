@@ -58,6 +58,7 @@ footer p{
 }
 a{
   color:maroon;
+underline:none;
 }
 li{
   color:steelblue;
