@@ -1,4 +1,6 @@
-
+@meida screen and (max-width:900px){
+	shadow:none;
+	font-size:90%;
 body{
   width:95%;
 max-width:1024px;
@@ -9,6 +11,7 @@ max-width:1024px;
   border-margin:31%;
   shadow:black;
   font-family: Arial, sans-serif;
+}
 }
 .column {
   float: left;
@@ -34,6 +37,8 @@ h1{
 }
 header img{
   float:left;
+max-width:170px;
+minimum-width:70px;
 }
 header{
   border:3px solid steelblue;
