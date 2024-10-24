@@ -27,7 +27,8 @@ max-width:1024px;
 #nav_menu{
 background-color:steelblue;
 font-color:black;
-float:none
+float:none;
+visibility:hidden;
 }
 ul{
 list-style-type:none;
