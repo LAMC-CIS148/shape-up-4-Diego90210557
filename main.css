@@ -166,13 +166,10 @@ max-width:1024px;
 background-color:steelblue;
 font-color:black;
 float:none;
-display:inline;
+display:hidden
 }
 #nav_submenu ul{
 list-style:none;
-}
-#nav_submenu li{
-display:inline;
 }
 h1{
 font-size:200%;
