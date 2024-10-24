@@ -1,4 +1,5 @@
-@meida screen and (max-width:900px){
+@media screen and (max-width:767px){
+@media screen and (max-width:900px){
 	shadow:none;
 	font-size:90%;
 body{
@@ -11,6 +12,7 @@ max-width:1024px;
   border-margin:31%;
   shadow:black;
   font-family: Arial, sans-serif;
+}
 }
 }
 .column {
