@@ -168,6 +168,9 @@ font-color:black;
 float:none;
 display:inline;
 }
+#nav_menu ul{
+list-style:none;
+}
 #nav_menu li{
 display:inline;
 }
