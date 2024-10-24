@@ -16,13 +16,8 @@ max-width:1024px;
 }
 }
 .column {
-  float: left;
+  align:center;
   width: 33.33%;
-}
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 /*
     Mobile Menu Core Style
@@ -177,8 +172,6 @@ font-color:black;
 float:none;
 visibility:hidden;
 }
-#nav_menu ul{
-list-style-type:none;
 }
 h1{
 font-size:200%;
@@ -206,9 +199,7 @@ h2{
 h4{
  color:maroon;
 }
-aside ul{
-	list-style:dot;
-}
+
 footer p{
   text-align:center;
   font-size:80%;
