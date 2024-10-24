@@ -170,7 +170,7 @@ max-width:1024px;
 background-color:steelblue;
 font-color:black;
 float:none;
-visibility:hidden;
+display:none;
 }
 }
 h1{
