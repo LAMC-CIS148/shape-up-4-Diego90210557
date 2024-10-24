@@ -162,16 +162,16 @@ max-width:1024px;
 .slicknav_nav .slicknav_txtnode {
 	margin-left: 15px;
 }
-#nav_menu{
+#nav_submenu{
 background-color:steelblue;
 font-color:black;
 float:none;
 display:inline;
 }
-#nav_menu ul{
+#nav_submenu ul{
 list-style:none;
 }
-#nav_menu li{
+#nav_submenu li{
 display:inline;
 }
 h1{
