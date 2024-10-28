@@ -1,5 +1,5 @@
-@media screen and (max-width:767px){
-@media screen and (max-width:900px){
+@media only screen and (max-width:767px){
+@media only screen and (max-width:900px){
 	shadow:none;
 	font-size:90%;
 body{
@@ -214,4 +214,8 @@ underline:none;
 }
 li{
   color:steelblue;
+}
+@media only screen and(max-width:479px){
+	header-size:70%;
+	heading-size:70%
 }
