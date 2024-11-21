@@ -207,4 +207,7 @@ footer p{
   background:steelblue;
  clear:left;
 }
+main p{
+	text-align:right;
+}
 
