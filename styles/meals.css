@@ -1,5 +1,4 @@
 body{
-  width:95%;
     border:3px solid steelblue;
   margin:auto;
   border-top:3px;
@@ -186,4 +185,15 @@ header{
   padding-top:1.5ems;
 	padding-bottom:2ems;
   background-image:linear-gradient(to bottom, white 0%,light steelblue 100%);
+}
+.column{
+	float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+.row{
+content: "";
+  display: table;
+  clear: both;
 }
