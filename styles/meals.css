@@ -212,8 +212,8 @@ main p{
 	text-align:right;
 }
 #name{
-	border:2px maroon;
+	border:2px solid maroon;
 }
 #email{
-	border:2px maroon;
+	border:2px solid maroon;
 }
