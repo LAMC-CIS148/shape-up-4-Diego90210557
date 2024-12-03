@@ -211,4 +211,9 @@ footer p{
 main p{
 	text-align:right;
 }
-
+#name{
+	border:2px maroon;
+}
+#email{
+	border:2px maroon;
+}
