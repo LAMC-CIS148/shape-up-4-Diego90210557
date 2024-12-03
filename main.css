@@ -194,8 +194,6 @@ main{
 h2{
   text-indent:110px;
 }
-h4{
- color:maroon;
 }
 aside h3{
 	color:maroon;
@@ -212,7 +210,7 @@ a{
   color:maroon;
 underline:none;
 }
-li{
+li aside{
   color:steelblue;
 }
 @media only screen and(max-width:479px){
